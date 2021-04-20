@@ -1,5 +1,7 @@
 # zillport
 
-pip install -r requirements.txt
-atau
-pip3 install -r requirements.txt
+\n pip install -r requirements.txt
+
+\n atau
+
+\n pip3 install -r requirements.txt
